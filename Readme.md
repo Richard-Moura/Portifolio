@@ -74,7 +74,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em **desenvo
 - GitHub: [https://github.com/Richard-Moura](https://github.com/Richard-Moura)  
 - LinkedIn: [https://linkedin.com/in/richard-dean-moura](https://linkedin.com/in/richard-dean-moura)  
 - Instagram: [https://instagram.com/cozinhadorichard](https://instagram.com/cozinhadorichard)  
-- Visualizar online: [https://Richard-Moura.github.io/portfolio/](https://richard-moura.github.io/portfolio/)  
+- Visualizar online: [https://richard-moura.github.io/Portifolio/](https://richard-moura.github.io/Portifolio/
+)  
 
 ---
 
